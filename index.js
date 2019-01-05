@@ -15,6 +15,6 @@ async function amazontranslate(e) {
 
 // Handle request.
 exports.handler = async (e) => {
-  try { return {statusCode: 200, body: JSON.stringify({result: await amazontranslate(e)})}; }
-  catch(err) { return {statusCode: 400, body: JSON.stringify({error: err})}; }
+  try { return {statusCode: 200, body: JSON.stringify({data: await amazontranslate(e)})}; }
+  catch(err) { return {statusCode: 400, body: JSON.stringify({err})}; }
 };
