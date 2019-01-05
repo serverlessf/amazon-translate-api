@@ -66,7 +66,7 @@ Access [Amazon Translate] via HTTP API.
 
 [Amazon Translate]: https://aws.amazon.com/translate/
 
-[.zip]: https://github.com/serverlessf/api-amazontranslate/archive/master.zip
+[.zip]: https://github.com/serverlessf/api-amazontranslate/releases
 [AWS Lambda]: https://console.aws.amazon.com/lambda/home
 [RestMan]: https://chrome.google.com/webstore/detail/restman/ihgpcfpkpmdcghlnaofdmjkoemnlijdi?hl=en
 
