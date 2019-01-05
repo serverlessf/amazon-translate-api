@@ -1,0 +1,30 @@
+{
+  "name": "api-amazontranslate",
+  "version": "0.0.1",
+  "description": "Access Amazon Translate via HTTP API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverlessf/api-amazontranslate.git"
+  },
+  "keywords": [
+    "serverless",
+    "lambda",
+    "function",
+    "microservice",
+    "amazon",
+    "translate",
+    "http",
+    "api",
+    "merferry"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serverlessf/api-amazontranslate/issues"
+  },
+  "homepage": "https://github.com/serverlessf/api-amazontranslate#readme"
+}
