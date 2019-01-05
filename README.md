@@ -6,7 +6,7 @@ Access [Amazon Translate] via HTTP API.
 
 ### microservice
 
-1. Download [this package] as `.zip`.
+1. Download this package as [.zip].
 2. Create a new lambda function on [AWS Lambda].
 3. In **Function Code**, select **Code entry type** as `.zip`.
 4. Select **Add triggers** , `API Gateway`.
@@ -66,7 +66,7 @@ Access [Amazon Translate] via HTTP API.
 
 [Amazon Translate]: https://aws.amazon.com/translate/
 
-[this package]: https://github.com/serverlessf/api-amazontranslate/releases
+[.zip]: https://github.com/serverlessf/api-amazontranslate/archive/master.zip
 [AWS Lambda]: https://console.aws.amazon.com/lambda/home
 [RestMan]: https://chrome.google.com/webstore/detail/restman/ihgpcfpkpmdcghlnaofdmjkoemnlijdi?hl=en
 
