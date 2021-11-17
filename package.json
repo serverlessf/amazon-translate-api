@@ -1,6 +1,6 @@
 {
   "name": "api-amazontranslate",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Access Amazon Translate via HTTP API.",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/serverlessf/api-amazontranslate#readme",
   "dependencies": {
-    "aws-sdk": "^2.384.0"
+    "aws-sdk": "^2.1030.0"
   }
 }
